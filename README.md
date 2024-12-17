@@ -42,4 +42,4 @@ matplotlib
 
 ### **3. Jalankan Dashboard**
 ```bash
-streamlit run app.py
+streamlit run dashboard.py
